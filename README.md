@@ -1,4 +1,4 @@
-# OctaviaIIDashboardWithETS2
+# Octavia II dashboard with Euro Truck Simulator 2
 Backend for connecting Octavia II Dashboard to ETS2 using two Arduino Unos and ETS2 telemetry server
 
 
